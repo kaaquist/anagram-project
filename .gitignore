@@ -1,0 +1,14 @@
+# Apple 
+*.DS_Store
+.AppleDouble
+.LSOverride
+
+# Intellij
+.idea/
+
+# Gradle
+.gradle/
+
+# Java
+build/
+
